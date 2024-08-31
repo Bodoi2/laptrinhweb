@@ -117,8 +117,8 @@
             $formSubmitted = false;
         } else {
             $id = test_input($_POST["id"]);
-            if (!preg_match('/^[a-zA-Z0-9]{6,12}$/', $id)) {
-                $idErr = "ID chỉ chứa chữ cái và số, từ 6 đến 12 ký tự";
+            if (!preg_match('/^[0-9]*$/', $id)) {
+                $idErr = "ID chỉ chứa số thôi";
                 $formSubmitted = false;
             }
         }

@@ -21,5 +21,13 @@
     <a href="http://nguyenthanhtung.000.pe/buoi4/bai2buoi3.php">Bài 1</a>
     <a href="http://nguyenthanhtung.000.pe/buoi4/bai1buoi4.php">Bài 2-1</a>
     <a href="http://nguyenthanhtung.000.pe/buoi4/bai2buoi4.php">Bài 2-2</a>
+<h5>Bài tập buổi 6</h5>
+    <a href="http://nguyenthanhtung.000.pe/buoi6/taobang.php">Tạo bảng</a>
+    <a href="http://nguyenthanhtung.000.pe/buoi6/them.php">Thêm</a>
+    <a href="http://nguyenthanhtung.000.pe/buoi6/hienthi.php">Hiển thị</a>
+    <a href="http://nguyenthanhtung.000.pe/buoi6/sua.php">Sửa</a>
+    <a href="http://nguyenthanhtung.000.pe/buoi6/xoa.php">Xóa</a>
+    <a href="http://nguyenthanhtung.000.pe/buoi6/reset.php">Làm mới</a>
+<h6>Bài tập buổi 7</h6>
 </body>
 </html>
